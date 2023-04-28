@@ -1,6 +1,6 @@
 package p8조건문;
 
-public class p8조건문 {
+public class 중첩if문 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
