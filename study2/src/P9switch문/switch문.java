@@ -1,4 +1,4 @@
-package p9switch문;
+package P9switch문;
 
 public class switch문 {
 

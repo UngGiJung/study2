@@ -1,4 +1,4 @@
-package p7조건문;
+package P7조건문;
 
 public class 조건문 {
 

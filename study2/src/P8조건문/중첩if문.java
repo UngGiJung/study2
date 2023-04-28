@@ -1,4 +1,4 @@
-package p8조건문;
+package P8조건문;
 
 public class 중첩if문 {
 
