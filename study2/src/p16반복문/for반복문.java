@@ -2,7 +2,7 @@ package p16반복문;
 
 import java.util.Scanner;
 
-public class n까지의합구하기 {
+public class for반복문 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
