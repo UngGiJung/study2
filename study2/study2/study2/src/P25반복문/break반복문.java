@@ -1,7 +1,6 @@
 package P25반복문;
 
 public class break반복문 {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int i = 1;
